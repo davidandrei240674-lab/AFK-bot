@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "THEsmmppp.aternos.me:31500",
+    "ip": "THEsmmppp.aternos.me",
     "port": 31500,
     "version": 1.21.11,
     "try-creative": false
