@@ -8,7 +8,7 @@
   "server": {
     "ip": "THEsmmppp.aternos.me:31500",
     "port": 31500,
-    "version": 1.21,
+    "version":1.21.11,
     "try-creative": false
   },
   "position": {
