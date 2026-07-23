@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "THEsmmppp.aternos.me",
+    "ip": "rooserfish.aternos.host:31500",
     "port": 31500,
     "version": 1.21.11,
     "try-creative": false
